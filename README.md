@@ -13,6 +13,5 @@ The purpose of this analysis is to allow manufacturers and publishers to receive
 ## Summary
 There is a slightly high number of negtive bias for reviews in the vine program. 49% of the reviews in the non-vine program were 5 stars reviews whereas the percentage in the vine reviews is about 45%. Additionally, we could further analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
 
-### Technologies
-Google Colab Notebook, PostgreSQL 13.4, pgAdmin 4, AWS
+
 
